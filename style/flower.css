@@ -5,8 +5,17 @@ body{
 
 /* Header styles */
 header{
-    
+   
+    display: flex;
+    justify-content: space-around;
+    background-image: url(/image/pngwing\ 10.png);
     background: rgba(229, 84, 115, 0.10);
+
+}
+.header-container{
+    padding-left: 100px;
+    padding-top: 197px;
+    padding-bottom: 147px;
 }
 
 .header-title{
@@ -30,5 +39,11 @@ header{
 }
 
 .header-img{
+    width: 635px;
+    height: 800px;
+    padding-right:100px ;
+    padding-top: 50px;
+    padding-left: 10px;
     
+   
 }
