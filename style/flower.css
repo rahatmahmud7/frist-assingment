@@ -47,3 +47,39 @@ header{
     
    
 }
+
+/* feature style */
+.featured-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 178px;
+}
+.featured-info{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400px;
+    margin-bottom: 48px;
+}
+
+/* flower style */
+.flower-container{
+
+}
+.flower-section{
+    width: 1920px;
+    height: 4867px;
+}
+.flower-img{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+width: 270px;
+height: 350px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15)
+}
+.pink-a{
+    text-decoration: none;
+}
